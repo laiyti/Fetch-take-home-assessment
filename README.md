@@ -1,6 +1,6 @@
 # Fetch-take-home-assessment
 
-Dear Fetch Data Analytics Team,
+Dear Data Analytics Team,
 
 This take-home assessment consists of three sections:
   - First: explore the data
