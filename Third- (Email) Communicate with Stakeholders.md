@@ -12,7 +12,7 @@ As we prepare to renew the contract with Dove next January, I would like to shar
 
 First, I want to highlight some data quality issues present in the dataset. While we will work with engineering team to address these problems, I wanted to share them with you in advance to help you better understand the analysis and the potential risks involved.
 
-* __Key data quality issues:__
+ > __Key data quality issues:__
 
 During my analysis, I identified several important data quality issues that we need to address:
 
@@ -25,13 +25,37 @@ During my analysis, I identified several important data quality issues that we n
 5.	__Data completeness__: 
 While in the User dataset provided have 100000 users, there are only 130 users matches the Transaction data. That means based on what we have now it will be hard to further analyze the deeper insights between transactios, products, and the user. For example, it will be hard to answer the question: Dove's body soap is most popular to what kind of users? (it can be live where, which gender, and the age.)
 
-* __Interesting Trend:__
-After you understand some backgroud data quality issue, I would like to share some interesting trend.
+  > __Interesting Trend:__
 
-The performance of Dove in July was notably strong, particularly for Body Wash and Bar Soap, which have consistently ranked as the top products in their categories from June to September. However, I noticed that Women’s Deodorant dropped to second place in July, with the "Secret" brand surpassing Dove. This trend prompts further investigation into potential factors contributing to this change.
+After understanding some data quality issues, I would like to share some interesting trend about the Dove's sale performance from June to September (June 12 ~ Sep 08) based on the Transaction data provided.
+
+The sales performance in each month shows below. 
+
+<img width="355" alt="Screenshot 2024-11-01 at 1 43 43 PM" src="https://github.com/user-attachments/assets/c6a4b34e-27ac-4978-a6d5-eade7d4f9a5b">
+
+As you see, the performance of Dove in July was notably strong.
+
+To find the popular products, we calculate the count of receipt for each product in each month: 
+
+We found __Body Wash__, __Bar Soap__, and __Women’s Deodorant__ are the top 3 popular products.
+<img width="713" alt="Screenshot 2024-11-01 at 1 54 50 PM" src="https://github.com/user-attachments/assets/f8d1e04b-1b0c-41ad-9b05-48de08ebae20">
+
+We also check the sales for these three products in each month, we found particularly for Body Wash and Bar Soap, which have consistently ranked as the top products in their categories from June to September. However, I noticed that Women’s Deodorant dropped to second place in July, with the "Secret" brand surpassing Dove.
+
+  * Body Wash:
+<img width="661" alt="Screenshot 2024-11-01 at 2 00 04 PM" src="https://github.com/user-attachments/assets/33eb918c-6eda-4070-b6c0-aab489479e45">
+
+  * Bar Soap:
+<img width="652" alt="Screenshot 2024-11-01 at 2 00 52 PM" src="https://github.com/user-attachments/assets/d78987b0-a315-410a-a134-c8bad0b00f69">
+
+  * Women’s Deodorant: 
+<img width="790" alt="Screenshot 2024-11-01 at 2 01 10 PM" src="https://github.com/user-attachments/assets/bacabd18-a574-42ca-bf7f-5218e78c6ee9">
 
 
-* __Request for Action:__
+
+
+  > __Request for Action:__
+
 To dive deeper into these trends and improve our insights, I would appreciate your assistance with the following:
 
 1.	__Fetch’s monthly Dove-related offers__: Could you provide details on the dove-related offers available each month? Understanding these offers may help explain the observed differences in sales.
@@ -39,8 +63,11 @@ To dive deeper into these trends and improve our insights, I would appreciate yo
 3.	__Complete user information__: It would be helpful to obtain complete user profiles that match the transaction data. As mentioned above, it will help us to better understand the relationship between transactions, products and users. We can provide more detail pictures about users, which will also be what Dove care about. If we can prove our users matches their target users, it will be helpful for us to negotiate and build even stronger relationship. Additionally, if it's possible knowing whether users saved Dove offers to their “like list” could clarify if these purchases were intentional or coincidental.
 4.	__“Secret” brand offers__: Finally, understanding the offers provided for the “Secret” brand from June to September may help us explain why Dove’s Women’s Deodorant saw a decline in ranking. If Dove would like to strengthen their sales in Women's Deodorant, then we can provide some advices and observations in advance.
 
-Thank you for your attention to these matters. Your insights and any additional information you can provide will be invaluable in resolving these issues and further understanding the dynamics of Dove’s performance.
+Your insights and any additional information you can provide will be invaluable in resolving these issues and further understanding the dynamics of Dove’s performance.
+
 If you have any questions or need further explaination, please feel free to reach out or schedule a meeting with me.
+
+Thank you for your attention to these matters. I am looking forward to your reply.
 
 Best regards,
 
