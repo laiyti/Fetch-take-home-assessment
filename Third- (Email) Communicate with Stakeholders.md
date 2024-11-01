@@ -1,3 +1,10 @@
+# Assumptions
+* In this section, I will share an interesting trend regarding "DOVE," one brand in the Health & Wellness category.
+* Specifically, I noticed that Dove's total sales and average daily sales performed outstandingly in July. I would like to share this trend along with deeper findings about the products and request additional help to make this data more meaningful and uncover further insights.
+* I assume that the product lead (Adam) I am emailing serves as the bridge between Fetch and Dove. This product lead regularly reports on how users purchase Dove's products and how our offers support their sales and marketing goals. As we prepare to renew the contract with Dove next January, the primary purpose of this communication is to provide insights that will support the negotiation and foster our collaborative relationship with Dove.
+* For the queries I used for this section, you can find in "_First & Second & Third.ipynb_"
+
+# Email
 ## Subject: Insights on Dove's Performance and Request for Additional Information
 
 #### To: Adam
