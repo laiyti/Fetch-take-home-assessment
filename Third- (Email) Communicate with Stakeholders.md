@@ -23,13 +23,13 @@ During my analysis, I identified several important data quality issues that we n
 5.	__Data completeness__: 
 While in the User dataset provided have 100000 users, there are only 130 users matches the Transaction data. That means based on what we have now it will be hard to further analyze the deeper insights between transactios, products, and the user. For example, it will be hard to answer the question: Dove's body soap is most popular to what kind of users? (it can be live where, which gender, and the age.)
 
-* Interesting Trend
+* __Interesting Trend:__
 After you understand some backgroud data quality issue, I would like to share some interesting trend.
 
 The performance of Dove in July was notably strong, particularly for Body Wash and Bar Soap, which have consistently ranked as the top products in their categories from June to September. However, I noticed that Women’s Deodorant dropped to second place in July, with the "Secret" brand surpassing Dove. This trend prompts further investigation into potential factors contributing to this change.
 
 
-* Request for Action
+* __Request for Action:__
 To dive deeper into these trends and improve our insights, I would appreciate your assistance with the following:
 
 1.	__Fetch’s monthly Dove-related offers__: Could you provide details on the dove-related offers available each month? Understanding these offers may help explain the observed differences in sales.
@@ -41,4 +41,5 @@ Thank you for your attention to these matters. Your insights and any additional 
 If you have any questions or need further explaination, please feel free to reach out or schedule a meeting with me.
 
 Best regards,
+
 Yi-Ting Lai
