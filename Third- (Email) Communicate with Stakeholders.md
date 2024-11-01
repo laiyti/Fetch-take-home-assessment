@@ -60,7 +60,7 @@ Upon reviewing sales for these products each month, we observed that Body Wash a
 <img width="790" alt="Screenshot 2024-11-01 at 2 01 10 PM" src="https://github.com/user-attachments/assets/bacabd18-a574-42ca-bf7f-5218e78c6ee9">
 
 
-  > __Request for Action:__
+  > __Request for Additional Information:__
 
 To dive deeper into these trends and improve our insights, I would appreciate your assistance with the following:
 
