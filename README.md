@@ -8,11 +8,13 @@ This take-home assessment consists of three sections:
   - Third: communicate with stakeholders
 
 
-For the Python and SQL queries, please refer to "_First & Second & Third.ipynb_". 
+For the First and Second section, please refer to "_First & Second & Third.ipynb_". 
 
 I have included all assumptions, explanations, and code comments within the file.
 
-For the email, please refer to "_Third - (Email) Communicate with Stakeholders.md_".
+For the Third section, I include the SQL quiries I used for this section in "_First & Second & Third.ipynb_". 
+
+For Email, please refer to "_Third - (Email) Communicate with Stakeholders.md_".
 
 If you need any further information, please let me know.
 
